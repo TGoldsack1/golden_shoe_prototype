@@ -5,7 +5,7 @@ This repository contains the implementation of my recommended solutions regardin
 The front-end (client) is written in ReactJs and the back-end (server) is written in NodeJs.
 
 ## Usage
-Both the client and server can be run separately from the command line. To do this, first use 'npm i' to install node packages and then user 'npm start to run.
+Both the client and server can be run separately from the command line. To do this, first use 'npm i' to install node packages and then user 'npm start' to run.
 
 To login, the user credentials are:
 - email: 'test@user.com'
